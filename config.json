@@ -1,0 +1,13 @@
+{
+    "db_ip": "localhost",
+    "db_port": 27017,
+    "filters": {
+        "channel": "ET_Tomograms",
+        "service": "TomoKISStudio#2853",
+        "schema": "",
+        "publishes": [],
+        "subscribes": [],
+        "next_alive_interval": null
+    },
+    "log_file": "app.log"
+}
